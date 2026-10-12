@@ -1,13 +1,13 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "ai-ops-7143",
+  "name": "skill-marketologa-artemow",
   "owner": {
-    "name": "Anonymous"
+    "name": "Artemow"
   },
   "description": "Скилы для перформанс-таргетологов (СНГ + EU + USA) - 25 русскоязычных скилов для всех этапов работы с клиентом",
   "plugins": [
     {
-      "name": "ai-ops-7143",
+      "name": "skill-marketologa-artemow",
       "source": "./",
       "version": "1.4.0",
       "description": "25 скилов для перформанс-таргетолога - ресерч, сегменты, офферы, креативы, запуск, аналитика, отчёты"
